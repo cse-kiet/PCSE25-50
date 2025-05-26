@@ -6,9 +6,10 @@
 
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. Install dependencies-npm install
+2. Compile contracts-npx hardhat compile
+3. Test the contract-npx hardhat test
+4. Deploy the contract-npx hardhat run scripts/deploy.js --network hardhat
 
 ## Checklist:
 1. Final Project Report
