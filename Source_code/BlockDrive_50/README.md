@@ -1,4 +1,4 @@
-# RideSharing DApp
+# BlockDrive
 
 This is a basic decentralized ride-sharing system built with Solidity and Hardhat.
 
